@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">StudentCard</string>
+    <string name="university_logo">University logo</string>
+
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="show_password">Show password</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="no_account">Don\'t have an account? Register</string>
+
+    <string name="full_name">Full Name</string>
+    <string name="reg_number">Registration Number</string>
+    <string name="gender">Gender</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="create_account">Create Account</string>
+    <string name="have_account">Already have an account? Login</string>
+
+    <string name="class_label">Class</string>
+    <string name="cnic">CNIC (13 digits, no dashes)</string>
+    <string-array name="classes">
+        <item>BS AI</item>
+        <item>BS CS</item>
+        <item>BS SE</item>
+        <item>BBA</item>
+    </string-array>
+
+    <string name="verify_email">Verify Email</string>
+    <string name="back">Back</string>
+    <string name="reset_password">Reset Password</string>
+    <string name="new_password">New Password</string>
+    <string name="save_password">Save New Password</string>
+</resources>
